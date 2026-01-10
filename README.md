@@ -1,6 +1,6 @@
 <h1 align="center"> Proyecto sprint 7 </h1>
 <h4 align="center">
--Diagrama de disperción.
+-Histograma
 </h4>
 <h4 align="center">
 -Diagrama de disperción.
